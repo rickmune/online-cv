@@ -23,9 +23,9 @@ sidebar:
     gitlab:
     bitbucket: rickmune
     twitter: '@PRickmune'
-    stack-overflow: 3863066/rickmune# Number/Username, e.g. 123456/alandoe
+    stack-overflow: 3863066/rickmune  #Number/Username, e.g. 123456/alandoe
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: #Number-Username, e.g. 123456-alandoe
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
@@ -74,30 +74,26 @@ experiences:
         Recruiting, mentoring, and performance management and review for a team of talented android and iOS developers.
         Setup the DevOps process for the mobile teams (Android and iOS)
         Played the evangelist role for clean code in the bank.
-          - Bullet point
-          - Bullet point
+          - 
     - role: Senior Software Engineer
       time: 2014 - 2015
-      company: Google, London
+      company: Equity Bank Limited, Nairobi, Kenya
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Led in the development of Equity Bank's first mobile application from concept to Play store submission which won the bank “Best Mobile Banking App”.
+        Designed and developed a payment SDK for Finserver Africa (A subsidiary of Equity Bank)
+        I was responsible for recruitment, mentoring, and performance management of a team of great developers.
+        Practiced clean code and used design patterns to develop readable, maintainable, and scalable mobile applications.
+        Work in cross-functional teams to define, design, plan, and implement new products and features. 
+        Improving code quality through code reviews, unit tests, integration tests, and applying TDD
+          - 
+    - role: Lead Software Developer
+      time: 2013 - 2014
+      company: Virtual City, Nairobi
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Led a team of three developers to deliver an android data collection application.
+        Led in the redesign of Disributr, a J2me application for the purchase and distribution of FMCG products, into an android application.
+        Supported and enhanced J2me and Windows mobile applications.m.
+          - 
 projects:
     title: Projects
     intro: >
@@ -113,23 +109,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: Java
+        level: 90%
+        
+      - name: Kotlin
+        level: 90%
+        
+      - name: Android
+        level: 90%
+        
+      - name: iOS
+        level: 80%
+        
       - name: Python & Django
-        level: 98%
+        level: 60%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 60%
 
       - name: Angular
-        level: 98%
+        level: 50%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 80%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Swift
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
