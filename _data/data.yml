@@ -3,11 +3,11 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Patrick M.M.
+    name: Patrick M. M.
     tagline: Android Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -29,11 +29,11 @@ sidebar:
     pdf: #http://www.africau.edu/images/default/sample.pdf
 
     languages:
-      - idiom: Swahili
+      - idiom: Kikuyu
         level: Native
 
-      - idiom: English
-        level: Expert
+      - idiom: Swahili
+        level: Native
         
       - idiom: English
         level: Professional
@@ -115,7 +115,7 @@ skills:
       - name: Kotlin
         level: 90%
         
-      - name: Android
+      - name: Android SDK
         level: 90%
         
       - name: iOS
@@ -135,6 +135,9 @@ skills:
 
       - name: Swift
         level: 70%
+        
+      - name: Micro-services 
+        level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    <a href="http://rickmune.com" target="_blank" rel="nofollow">rickmune @2022</a>
